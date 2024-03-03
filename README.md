@@ -10,9 +10,9 @@ https://learn.pimoroni.com/article/getting-started-with-picosystem-and-c++
 3. Edit .../picosystem/CMakeLists.txt adding the line:
    add_subdirectory(mule)
 4. Go to the directory .../picosystem/build, making the directory if needed
-   ```
-   cmake ..
-   make
+```
+> cmake ..
+> make
 '''
 You can use Visual Studio code to edit the code or other editor.  Eg.
 ```
