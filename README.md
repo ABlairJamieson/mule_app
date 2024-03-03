@@ -13,9 +13,9 @@ https://learn.pimoroni.com/article/getting-started-with-picosystem-and-c++
 ```
 > cmake ..
 > make
-'''
+```
 You can use Visual Studio code to edit the code or other editor.  Eg.
 ```
 > cd .../picosystem/examples/mule
 > code .
-'''
+```
